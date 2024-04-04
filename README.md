@@ -1,0 +1,1 @@
+# Simple-Scalping-Strategy
