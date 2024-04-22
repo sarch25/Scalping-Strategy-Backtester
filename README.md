@@ -1,24 +1,22 @@
 # Simple Scalping Strategy Backtester
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-Passionate and results-driven trader with a keen interest in manual and algorithmic trading strategies. Seeking opportunities to leverage my expertise in developing and implementing a simple yet effective scalping strategy coded in Python. My focus is on creating a versatile trading strategy that can be easily optimized and adapted to meet my specific trading needs, whether executed manually or through automation. By utilizing the 5-minute timeframe, I aim to accelerate trading frequency and enhance the risk-reward ratio, all while harnessing Python's capabilities for strategy optimization and rigorous backtesting. 5 min timeframe. This strategy uses 2 EMA curves for trend detection, if the fast moving average is above the slow moving average we have uptrend and if the fast moving average is
-below the slow moving average we have a downtrend. In uptrend we only consider long positions and in downtrend we only consider short positions. Then we use the bollinger band indicator edges for entry points. If we have a uptrend and price crosses the lower bollinger band we enter a long position. If he have a downtrend and price crosses the higher bollinger band we enter a short position. The idea is price will come back to the center of the bollinger band after crossing extreme values while trading in the same direction as the moving average trend. Stop loss is the ATR at the time of the trade. Used pandas,pandas ta, numpy, plotly libararies to code in juppyter notebook
-
+Using Python, I developed a straightforward yet flexible scalping method. By utilizing the 5-minute timeframe, I was able to maximize trading frequency and improve the risk-reward ratio. Two exponential moving average (EMA) curves are used in this approach to spot trends. Long positions are taken during uptrends and short positions are taken during downtrends. The Bollinger Bands indicator's edges indicate entry points: long positions are entered during an upswing when the price crosses the lower band, while short bets are entered during a downtrend when the price crosses the upper band. At the moment of transaction, the average true range (ATR) is used to set the stop loss.
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Implementation of a scalping strategy using Python, focusing on adaptability and optimization
+- Utilization of technical analysis indicators, such as exponential moving averages and Bollinger Bands, for trend detection and entry points
+- Integration of risk management principles, such as setting stop loss based on the average true range
+- Application of Python libraries for efficient data analysis, visualization, and strategy development
+- Importance of rigorous backtesting and optimization to validate the effectiveness of the trading strategy and ensure robust performance in real-world trading scenarios.
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Jupyter Notebook: Integrated development environment (IDE) used for coding and experimentation with Python
+- Plotly: Library used for interactive data visualization
+- Pandas: Python library used for data manipulation and analysis
+- Pandas TA: Library for technical analysis indicators integrated with Pandas
+- NumPy: Python library used for numerical computing
 
 ## Images
 
