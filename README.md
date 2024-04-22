@@ -17,6 +17,7 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 - Pandas: Python library used for data manipulation and analysis
 - Pandas TA: Library for technical analysis indicators integrated with Pandas
 - NumPy: Python library used for numerical computing
+- Backtesting: This package provides tools and utilities for backtesting trading strategies using historical market data
 
 ## Images
 
