@@ -2,6 +2,9 @@
 
 ## Objective
 Using Python, I developed a straightforward yet flexible scalping method. By utilizing the 5-minute timeframe, I was able to maximize trading frequency and improve the risk-reward ratio. Two exponential moving average (EMA) curves are used in this approach to spot trends. Long positions are taken during uptrends and short positions are taken during downtrends. The Bollinger Bands indicator's edges indicate entry points: long positions are entered during an upswing when the price crosses the lower band, while short bets are entered during a downtrend when the price crosses the upper band. At the moment of transaction, the average true range (ATR) is used to set the stop loss.
+
+![Screenshot 2024-04-083085728](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/80dfa682-9f5f-4e0e-a0f5-86efada2e797)
+
 ### Skills Learned
 
 - Implementation of a scalping strategy using Python, focusing on adaptability and optimization
@@ -33,7 +36,6 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 
 ![Screenshot 2024-04-08 085818](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/f0cf933d-bb8c-475a-a7a8-4a4052225da1)
 
-![Screenshot 2024-04-08 085728](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/49400c4f-2438-401c-a69b-b9892f981d0c)
 
 ![Screenshot 2024-04-08 085643](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/4a09d2a7-bc38-4ea8-b33e-1218a299df02)
 
