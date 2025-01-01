@@ -24,7 +24,6 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 
 ## Images
 
-![Screenshot 2024-04-04 100636](https://github.com/sarch25/Python-Trading-Bot/assets/130470960/46482be7-003e-4c70-be09-867a43acc6a5)
 
 ![Screenshot 2024-04-08 090311](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/8f0fffa7-131a-424e-9e24-68ed468b28ce)
 
