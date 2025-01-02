@@ -7,7 +7,7 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 
 ### Skills Learned
 
-- Implementation of a scalping strategy using Python, focusing on adaptability and optimization
+- Created a scalping strategy using Python, focusing on adaptability and optimization
 - Utilization of technical analysis indicators, such as exponential moving averages and Bollinger Bands, for trend detection and entry points
 - Integration of risk management principles, such as setting stop loss based on the average true range
 - Application of Python libraries for efficient data analysis, visualization, and strategy development
