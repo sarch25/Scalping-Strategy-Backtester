@@ -24,30 +24,16 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 
 ## Images
 
-
-![Screenshot 2024-04-08 090311](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/8f0fffa7-131a-424e-9e24-68ed468b28ce)
-
-![Screenshot 2024-04-08 090209](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/f1dd051b-24ef-4ca7-b8c9-f94a78265054)
-
-![Screenshot 2024-04-08 090053](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/1df05174-eb59-492e-a9f3-766a922d77e1)
-
-![Screenshot 2024-04-08 085847](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/983c9f30-0370-41d5-adbb-1776ddd5f6e4)
-
-![Screenshot 2024-04-08 085818](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/f0cf933d-bb8c-475a-a7a8-4a4052225da1)
-
-
-![Screenshot 2024-04-08 085643](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/4a09d2a7-bc38-4ea8-b33e-1218a299df02)
-
-![Screenshot 2024-04-08 085614](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/a51d9503-ebb9-4289-bb1c-2919691a4c8c)
-
-![Screenshot 2024-04-08 085556](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/2d6a82a1-2dca-4e36-8949-3f4f31822cd5)
-
-![Screenshot 2024-04-08 085529](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/433fb929-355a-46d1-8289-072b0d9344e9)
+#### A section of the Python code defining the logic for generating EMA signals. It includes the creation of a DataFrame for signal tracking, calculations for the current and back candles, and a check to ensure that all EMA fast values remain below the EMA slow values during downtrends. This ensures precise alignment with the strategy's conditions for trend identification.
 
 ![Screenshot 2024-04-08 085506](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/7f204e56-92be-4538-8f75-616a7e905e50)
+#
 
-![Screenshot 2024-04-08 085447](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/1fda6e6b-76bd-4c5b-bc0e-57785b0e366c)
+#### Backtesting results of the scalping strategy, displaying some key performance metrics such as return percentage, profit factor, win rate, drawdown, sharpe ratio, and the total number of trades, providing an in-depth evaluation of the strategy.
+![Screenshot 2024-04-08 085847](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/983c9f30-0370-41d5-adbb-1776ddd5f6e4)
+#
 
-![Screenshot 2024-04-08 085415](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/de5c32dd-4b05-4da3-a94d-742ce65f4acd)
+#### A chart visualizing the strategy in action, with candlesticks, upper and lower Bollinger Bands, fast and slow EMAs, and the purple dots showing the exact trade entry point during a trend.
 
-Every screenshot should have some text explaining what the screenshot is about.
+![Screenshot 2024-04-083085728](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/80dfa682-9f5f-4e0e-a0f5-86efada2e797)
+#
