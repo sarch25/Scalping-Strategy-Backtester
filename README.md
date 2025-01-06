@@ -1,7 +1,10 @@
 # Scalping Strategy Backtester
 
 ## Summary
-Using Python, I developed a straightforward yet flexible scalping method. By utilizing the 5-minute timeframe, I was able to maximize trading frequency and improve the risk-reward ratio. Two exponential moving average (EMA) curves are used in this approach to spot trends. Long positions are taken during uptrends and short positions are taken during downtrends. The Bollinger Bands indicator's edges indicate entry points: long positions are entered during an upswing when the price crosses the lower band, while short trades are entered during a downtrend when the price crosses the upper band. At the moment of transaction, the average true range (ATR) is used to set the stop loss.
+Using Python, I developed a straightforward yet flexible scalping method. By utilizing the 5-minute timeframe, I was able to maximize trading frequency and improve the risk-reward ratio. Two exponential moving average (EMA) curves are used in this approach to spot trends. 
+
+Long positions are taken during uptrends and short positions are taken during downtrends. 
+The Bollinger Bands indicator edges indicate entry points: long positions are entered during an upswing when the price crosses the lower band, while short trades are entered during a downtrend when the price crosses the upper band. At the moment of transaction, the average true range (ATR) is used to set the stop loss.
 
 ![Screenshot 2024-04-083085728](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/80dfa682-9f5f-4e0e-a0f5-86efada2e797)
 
@@ -33,7 +36,7 @@ Using Python, I developed a straightforward yet flexible scalping method. By uti
 ![Screenshot 2024-04-08 085847](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/983c9f30-0370-41d5-adbb-1776ddd5f6e4)
 #
 
-#### A chart visualizing the strategy in action, with candlesticks, upper and lower Bollinger Bands, fast and slow EMAs, and the purple dots showing the exact trade entry point during a trend.
+#### This chart provides a visual representation of the backtester, featuring candlesticks, upper and lower Bollinger Bands, fast and slow EMAs, and purple dots indicating the exact trade entry points during a trend.
 
 ![Screenshot 2024-04-083085728](https://github.com/sarch25/Simple-Scalping-Strategy/assets/130470960/80dfa682-9f5f-4e0e-a0f5-86efada2e797)
 #
