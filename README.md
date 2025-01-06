@@ -1,4 +1,4 @@
-# Simple Scalping Strategy Backtester
+# Scalping Strategy Backtester
 
 ## Summary
 Using Python, I developed a straightforward yet flexible scalping method. By utilizing the 5-minute timeframe, I was able to maximize trading frequency and improve the risk-reward ratio. Two exponential moving average (EMA) curves are used in this approach to spot trends. Long positions are taken during uptrends and short positions are taken during downtrends. The Bollinger Bands indicator's edges indicate entry points: long positions are entered during an upswing when the price crosses the lower band, while short trades are entered during a downtrend when the price crosses the upper band. At the moment of transaction, the average true range (ATR) is used to set the stop loss.
