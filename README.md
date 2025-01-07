@@ -18,7 +18,7 @@ The Bollinger Bands indicator edges indicate entry points: long positions are en
 
 ### Tools Used
 
-- Jupyter Notebook: Integrated development environment (IDE) used for coding and experimentation with Python
+- Jupyter Notebook: IDE used for coding and experimentation with Python
 - Plotly: Library used for interactive data visualization
 - Pandas: Python library used for data manipulation and analysis
 - Pandas TA: Library for technical analysis indicators integrated with Pandas
